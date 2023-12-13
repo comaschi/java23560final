@@ -1,0 +1,6 @@
+com\codoacodo\connection\AdministradorDeConexiones.class
+com\codoacodo\controllers\OradorController.class
+com\codoacodo\JakartaRestConfiguration.class
+com\codoacodo\modeloDAO\OradorDAO.class
+com\codoacodo\modelo\Orador.class
+com\codoacodo\resources\JakartaEE10Resource.class

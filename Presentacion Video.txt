@@ -1,0 +1,37 @@
+
+Soy Nombre y Apellido  Diego Comaschi de la comisión 23560 , mi profesor es Emiliano Rivera
+Les voy a comentar las funcionalidades del CRUD de oradores.
+
+Arquitectura
+
+Front-end arquitecura
+  Html CSS con Bootstrap 
+  Javascript - JQuery usando funcionalidad Ajax
+
+Back-end Arquitectura
+  Servidor web Tomcat 11
+  DB Mysql 8.0.3
+  Java servlet usando JSP
+
+
+IDE
+Netbeans y Vscode(HTML CSS)
+
+
+EL projecto se basa en una Tabla con los oradores dando la funcionalidad CRUD desde la misma pantalla 
+Se proveen algunas funcionalidades de filtro en la tabla y una mejora en la paginacion del archivo
+
+
+
+Otras de la funcionalidad provista por el projecto son microservicios que se pueden utiliar externamente desde otra aplicacion como APIs retornando JSON
+
+
+1 http://localhost:8080/oradoresWeb/orador?action=find&id=25
+esta api 
+
+
+
+
+
+netstat -aon |find /i "listening" |find "8080"
+taskkill /F /PID
